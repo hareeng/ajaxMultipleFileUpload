@@ -1,1 +1,1 @@
-FGJASD;JF ;LJK
+This jQuery utility allows uploading of multiple files without reloading the page.
